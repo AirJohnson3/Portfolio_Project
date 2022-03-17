@@ -12,6 +12,6 @@ The Applied Data Science program at Syracuse University enabled students to iden
 4. [Resume](https://github.com/AirJohnson3/Portfolio_Project/blob/master/Michael_Johnson_Portfolio_Resume.pdf)
 # References Course Projects
 1. [IST 659](https://github.com/AirJohnson3/Portfolio_Project/tree/master/IST_659) - Data Administration Concepts and Database Management
-2. [IST 722](https://github.com/AirJohnson3/Portfolio_Project/tree/master/IST_722) - Date Warehouse
+2. [IST 722](https://github.com/AirJohnson3/Portfolio_Project/tree/master/IST_722) - Data Warehouse
 3. [IST 664](https://github.com/AirJohnson3/Portfolio_Project/tree/master/IST_664) - Natural Language Processing
 4. [IST 707](https://github.com/AirJohnson3/Portfolio_Project/tree/master/IST_707) - Applied Machine Learning for Data Analytics
