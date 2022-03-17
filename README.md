@@ -1,5 +1,8 @@
 # Michael L. Johnson
 # Syracuse University Master of Science in Applied Data Science Portfolio Project
+SUID: 516408416
+Syracuse Email: mjohns39@syr.edu
+Personal Email: MichaelJohnson1215@gmail.com
 # Description
 The Applied Data Science program at Syracuse University enabled students to identify actionable insights with data analytics through building visualizations and predictive models relying on a mixture of theory and application. This portfolio is a reflection for some of the classes and projects throughout the program.
 # Portfolio Contents
