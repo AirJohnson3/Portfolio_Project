@@ -1,6 +1,6 @@
 # Michael L. Johnson
 # Syracuse University Master of Science in Applied Data Science Portfolio Project
-SUID: 516408416
+SUID: 516408416\n
 Syracuse Email: mjohns39@syr.edu
 Personal Email: MichaelJohnson1215@gmail.com
 # Description
